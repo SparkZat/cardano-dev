@@ -24,3 +24,5 @@ npm test -- --updateSnapshot
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+[![Run on Repl.it](https://repl.it/badge/github/DevAssignment-prog/cardano-dev)](https://repl.it/github/DevAssignment-prog/cardano-dev)
