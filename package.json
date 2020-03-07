@@ -5,7 +5,8 @@
   "main": "",
   "scripts": {
     "test": "jest --all --verbose --collectCoverage --coverageReporters text text-summary",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "start": "node index"
   },
   "author": "Ahmad",
   "license": "MIT",
