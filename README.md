@@ -17,7 +17,7 @@ npm install to install the modules required to run the project
 
 npm test -- --updateSnapshot
 
-## Authors
+## Author
 
 * **Ahmad Hafeez** 
 
