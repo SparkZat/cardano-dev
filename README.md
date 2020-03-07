@@ -6,7 +6,7 @@ This project helps manage the portfolio of a given product
 
 npm start
 
-server will start listening on :3000/graphql
+server will start listening on localhost:3000/graphql
 
 
 ### Installing
